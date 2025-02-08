@@ -1,0 +1,101 @@
+Pproduct_number,Pshort_name,Ptextual_description,Pbrand,Pcolour,Plength,Pwidth,Pheight,Pweight,Pprice,Pdays_of_warranty,Pcategory,Pstock_count
+1,Smartphone,Latest model with 128GB storage,"Woodward, Perkins and Huang",Aqua,,,,0.35,296.67,,Electronics,97
+2,Laptop,High-performance laptop with 16GB RAM,"Townsend, Jackson and Hamilton",Indigo,69.27,18.61,,2.26,1038.8,360,Electronics,49
+3,Organic Honey,Pure organic honey in a 500ml jar,"Davenport, Holt and Saunders",BlueViolet,,46.19,,0.8,6.16,,Groceries,28
+4,Blender,Powerful blender with 3 speed settings,Stark PLC,,39.47,,,4.61,38.06,,Home & Kitchen,96
+5,Laptop,High-performance laptop with 16GB RAM,Franco-Haley,SeaShell,16.73,88.17,81.65,1.19,1197.8,174,Electronics,141
+6,Organic Honey,Pure organic honey in a 500ml jar,Smith Inc,FloralWhite,,42.01,,0.87,19.52,334,Groceries,103
+7,Men's T-shirt,100% cotton plain T-shirt,"Diaz, Bradshaw and Shields",,72.76,18.55,30.4,0.48,35.57,,Fashion,199
+8,Laptop,High-performance laptop with 16GB RAM,Peterson Inc,DimGray,,80.85,31.2,1.86,2383.35,147,Electronics,78
+9,Cooking 101,Basic cooking guide with simple recipes,"Thomas, Chen and Castaneda",Olive,,,,1.59,38.35,,Books,14
+10,Cooking 101,Basic cooking guide with simple recipes,Hughes PLC,PaleGoldenRod,,96.41,,1.26,31.92,,Books,131
+11,Coffee Table,Wooden coffee table with storage,Luna-Jenkins,NavajoWhite,91.53,72.85,76.22,14.88,234.75,300,Home & Kitchen,175
+12,Coffee Table,Wooden coffee table with storage,Davis and Sons,LightYellow,69.08,54.73,,11.5,259.85,56,Home & Kitchen,108
+13,Women's Dress,Elegant evening dress,Henderson-Allen,,37.11,84.01,86.49,0.79,106.96,,Fashion,0
+14,Blender,Powerful blender with 3 speed settings,Taylor PLC,,,66.08,8.37,3.39,69.42,,Home & Kitchen,91
+15,Cooking 101,Basic cooking guide with simple recipes,Romero-Guzman,RoyalBlue,,,22.68,1.03,13.04,,Books,21
+16,Coffee Table,Wooden coffee table with storage,Spencer-Campos,Cornsilk,5.66,28.76,,17.49,141.12,304,Home & Kitchen,68
+17,Cooking 101,Basic cooking guide with simple recipes,Smith Group,Turquoise,,,5.55,1.83,31.28,,Books,72
+18,The Great Gatsby,Classic novel by F. Scott Fitzgerald,Smith Ltd,Navy,90.59,,,0.82,21.63,,Books,107
+19,Women's Dress,Elegant evening dress,"Brewer, Brown and Johnson",MediumAquaMarine,35.86,88.77,92.74,1.34,89.99,,Fashion,27
+20,The Great Gatsby,Classic novel by F. Scott Fitzgerald,Orr PLC,,77.9,,37.5,1.47,23.44,,Books,74
+21,Fresh Apples,Pack of 6 fresh red apples,Holmes Ltd,,,74.28,,1.28,3.81,,Groceries,179
+22,Laptop,High-performance laptop with 16GB RAM,"Watson, Jacobs and Gomez",,81.95,52.72,,2.99,1682.39,147,Electronics,30
+23,Laptop,High-performance laptop with 16GB RAM,"Fleming, Briggs and Rosario",,93.26,,13.64,1.1,1314.59,,Electronics,162
+24,Smartphone,Latest model with 128GB storage,"Jackson, Butler and Casey",Aquamarine,,66.17,,0.21,564.72,,Electronics,107
+25,Laptop,High-performance laptop with 16GB RAM,Rogers Inc,Silver,,,35.56,1.57,1060.32,250,Electronics,47
+26,Fresh Apples,Pack of 6 fresh red apples,Gray-Norton,IndianRed,,,,1.55,9.03,,Groceries,189
+27,Fresh Apples,Pack of 6 fresh red apples,Alvarez-Hale,,,13.29,,1.63,7.21,,Groceries,167
+28,Smartphone,Latest model with 128GB storage,Lee Ltd,PeachPuff,12.11,37.58,99.02,0.18,1137.0,,Electronics,49
+29,Women's Dress,Elegant evening dress,"Murphy, Mckenzie and Baldwin",Crimson,85.38,38.0,,1.13,41.14,,Fashion,123
+30,Men's T-shirt,100% cotton plain T-shirt,Ferguson Group,,,32.52,10.78,0.49,17.61,283,Fashion,175
+31,Coffee Table,Wooden coffee table with storage,"Richards, Shea and Bender",,41.49,43.08,,13.68,90.0,,Home & Kitchen,178
+32,Cooking 101,Basic cooking guide with simple recipes,Martinez-Lindsey,HoneyDew,29.59,33.15,,0.68,16.72,179,Books,10
+33,Laptop,High-performance laptop with 16GB RAM,"Patterson, Hall and Frost",MediumTurquoise,,66.03,,2.65,1569.19,,Electronics,88
+34,Blender,Powerful blender with 3 speed settings,Rivera Inc,OrangeRed,88.98,,,4.7,43.59,350,Home & Kitchen,2
+35,Organic Honey,Pure organic honey in a 500ml jar,Doyle-Newman,Cyan,,,,0.83,18.02,328,Groceries,27
+36,Women's Dress,Elegant evening dress,Edwards-Wiggins,MediumBlue,57.33,25.96,,1.08,165.39,109,Fashion,114
+37,Laptop,High-performance laptop with 16GB RAM,"Hill, Gray and Schultz",LightCyan,13.9,,,2.72,877.72,,Electronics,186
+38,Laptop,High-performance laptop with 16GB RAM,Moore-Edwards,,,,,2.22,638.91,,Electronics,62
+39,Women's Dress,Elegant evening dress,Ibarra Ltd,,74.04,62.31,,0.52,168.78,359,Fashion,11
+40,Smartphone,Latest model with 128GB storage,Owen PLC,Sienna,,61.97,5.89,0.42,905.08,73,Electronics,51
+41,Laptop,High-performance laptop with 16GB RAM,Brady and Sons,Bisque,82.47,,,1.49,1587.05,,Electronics,139
+42,The Great Gatsby,Classic novel by F. Scott Fitzgerald,Barber LLC,LavenderBlush,,,84.47,0.38,27.8,,Books,109
+43,Men's T-shirt,100% cotton plain T-shirt,Levy and Sons,SkyBlue,,70.02,72.91,0.47,29.67,144,Fashion,26
+44,Fresh Apples,Pack of 6 fresh red apples,"Jensen, Gonzalez and Wise",,,,13.06,1.04,4.06,,Groceries,85
+45,Coffee Table,Wooden coffee table with storage,Osborne-Holder,LightCoral,,33.65,38.1,12.08,279.06,165,Home & Kitchen,182
+46,The Great Gatsby,Classic novel by F. Scott Fitzgerald,Clark-Wilson,Tomato,78.89,,,0.78,24.92,64,Books,28
+47,Blender,Powerful blender with 3 speed settings,"Greer, Cortez and White",Cornsilk,,,22.28,3.16,45.55,,Home & Kitchen,177
+48,Women's Dress,Elegant evening dress,Waters-Ayala,,92.55,,56.18,0.99,116.52,,Fashion,21
+49,Blender,Powerful blender with 3 speed settings,Guerrero PLC,Crimson,82.07,,,3.09,36.26,215,Home & Kitchen,142
+50,Men's T-shirt,100% cotton plain T-shirt,Harris-Cox,DarkKhaki,,,87.34,0.45,21.79,,Fashion,141
+51,Men's T-shirt,100% cotton plain T-shirt,"Baker, Young and Myers",,,16.14,18.59,0.42,37.84,,Fashion,13
+52,The Great Gatsby,Classic novel by F. Scott Fitzgerald,Coleman Ltd,Aquamarine,20.03,,,0.52,5.31,243,Books,38
+53,Laptop,High-performance laptop with 16GB RAM,"Simon, Jenkins and Dixon",DarkGoldenRod,71.36,,,1.67,2062.79,176,Electronics,28
+54,Smartphone,Latest model with 128GB storage,"Smith, Kennedy and Weaver",MediumAquaMarine,,52.81,,0.43,1083.87,313,Electronics,182
+55,Fresh Apples,Pack of 6 fresh red apples,Wright-Caldwell,Khaki,,,54.54,1.98,3.88,,Groceries,158
+56,The Great Gatsby,Classic novel by F. Scott Fitzgerald,Martin-Gates,Plum,97.72,12.33,50.35,1.05,15.13,,Books,13
+57,Fresh Apples,Pack of 6 fresh red apples,Charles LLC,,,,85.43,1.03,4.98,63,Groceries,54
+58,Coffee Table,Wooden coffee table with storage,"Trujillo, Freeman and Smith",Gold,,65.65,,15.38,294.17,318,Home & Kitchen,123
+59,The Great Gatsby,Classic novel by F. Scott Fitzgerald,"Walsh, Weaver and Davis",Yellow,5.81,,,0.72,9.87,212,Books,33
+60,Cooking 101,Basic cooking guide with simple recipes,Bush-Young,Teal,14.6,19.27,41.3,1.38,35.56,,Books,38
+61,Men's T-shirt,100% cotton plain T-shirt,Mendez and Sons,DarkSalmon,,89.02,67.15,0.43,16.44,294,Fashion,186
+62,Blender,Powerful blender with 3 speed settings,"Roth, Lewis and Pham",DarkViolet,,,94.31,2.12,77.02,152,Home & Kitchen,53
+63,Coffee Table,Wooden coffee table with storage,"Nelson, Wheeler and Clark",MediumSlateBlue,99.47,,,25.33,127.39,74,Home & Kitchen,127
+64,Cooking 101,Basic cooking guide with simple recipes,"Turner, Santiago and Meyer",Magenta,20.34,,,0.63,15.38,162,Books,121
+65,Fresh Apples,Pack of 6 fresh red apples,"Farrell, Combs and Davis",Fuchsia,,,8.76,1.86,5.81,96,Groceries,112
+66,Fresh Apples,Pack of 6 fresh red apples,"Jensen, Hill and Bentley",Indigo,53.06,,69.84,1.62,7.51,155,Groceries,179
+67,Coffee Table,Wooden coffee table with storage,Kemp-Stevens,,,,86.11,14.46,268.54,208,Home & Kitchen,119
+68,Women's Dress,Elegant evening dress,Woods-Jackson,,,,42.71,0.93,92.27,,Fashion,87
+69,Blender,Powerful blender with 3 speed settings,Sloan and Sons,,15.86,,95.11,2.44,37.08,337,Home & Kitchen,198
+70,Men's T-shirt,100% cotton plain T-shirt,Acosta-Young,Navy,,,,0.22,44.72,246,Fashion,69
+71,Organic Honey,Pure organic honey in a 500ml jar,Johnson-Perez,,,,,0.86,18.07,162,Groceries,47
+72,The Great Gatsby,Classic novel by F. Scott Fitzgerald,Miller Ltd,HotPink,,33.21,,1.42,17.04,112,Books,178
+73,Women's Dress,Elegant evening dress,Schneider-Sparks,DarkSalmon,83.19,89.91,,1.22,124.13,,Fashion,170
+74,Organic Honey,Pure organic honey in a 500ml jar,Sanchez-Anderson,,,,15.79,0.98,11.1,31,Groceries,115
+75,Laptop,High-performance laptop with 16GB RAM,Mullins Group,DarkGray,8.47,22.83,78.57,2.2,932.27,,Electronics,48
+76,Coffee Table,Wooden coffee table with storage,Hill PLC,PaleTurquoise,,,,26.38,81.19,,Home & Kitchen,116
+77,Women's Dress,Elegant evening dress,Pierce-Tate,SeaGreen,45.46,36.9,48.59,0.87,119.5,,Fashion,111
+78,Women's Dress,Elegant evening dress,Smith Inc,Violet,46.56,,92.89,1.36,199.17,83,Fashion,22
+79,Cooking 101,Basic cooking guide with simple recipes,Hinton-Jimenez,,64.26,65.18,81.56,1.5,35.55,,Books,198
+80,Women's Dress,Elegant evening dress,"Hoffman, Willis and Wilson",,95.3,,49.07,1.41,136.07,232,Fashion,1
+81,Organic Honey,Pure organic honey in a 500ml jar,Holt LLC,MintCream,,34.2,91.39,0.84,5.06,46,Groceries,3
+82,The Great Gatsby,Classic novel by F. Scott Fitzgerald,"Chang, Walters and Holder",SaddleBrown,54.3,35.16,,0.94,15.75,230,Books,49
+83,Blender,Powerful blender with 3 speed settings,"Moore, Hernandez and Bell",SeaShell,59.9,,97.85,2.52,92.33,253,Home & Kitchen,59
+84,The Great Gatsby,Classic novel by F. Scott Fitzgerald,Sanders Ltd,RoyalBlue,79.51,64.6,,0.92,28.72,,Books,23
+85,Cooking 101,Basic cooking guide with simple recipes,Goodwin Ltd,,19.54,56.65,59.32,0.54,32.03,354,Books,161
+86,Organic Honey,Pure organic honey in a 500ml jar,"Williams, Cabrera and Rodgers",,33.21,28.3,79.67,0.89,14.89,,Groceries,36
+87,The Great Gatsby,Classic novel by F. Scott Fitzgerald,Bell-Gray,,16.66,,,0.43,6.93,136,Books,100
+88,Cooking 101,Basic cooking guide with simple recipes,Ayers and Sons,LawnGreen,,,24.98,1.13,36.69,260,Books,41
+89,Laptop,High-performance laptop with 16GB RAM,"Barker, Gardner and Webb",,,62.63,,2.95,2487.48,,Electronics,157
+90,Coffee Table,Wooden coffee table with storage,Kim-Sloan,,93.03,,,10.46,177.94,,Home & Kitchen,93
+91,The Great Gatsby,Classic novel by F. Scott Fitzgerald,"Palmer, Bailey and Lester",,,,17.03,0.56,9.98,,Books,181
+92,Blender,Powerful blender with 3 speed settings,"Robinson, Howell and Leonard",DarkTurquoise,46.43,92.62,,2.59,87.68,231,Home & Kitchen,26
+93,Blender,Powerful blender with 3 speed settings,Palmer LLC,,,46.18,,3.79,41.73,,Home & Kitchen,27
+94,Blender,Powerful blender with 3 speed settings,Rivera-Jacobs,DarkGoldenRod,40.53,11.11,,2.1,60.91,180,Home & Kitchen,154
+95,Blender,Powerful blender with 3 speed settings,Powell and Sons,Tan,,45.79,,2.74,37.21,,Home & Kitchen,37
+96,Organic Honey,Pure organic honey in a 500ml jar,Miller-Rogers,,73.1,,35.55,0.62,5.99,,Groceries,54
+97,Coffee Table,Wooden coffee table with storage,Lara and Sons,,,88.92,12.11,27.85,155.44,192,Home & Kitchen,81
+98,Smartphone,Latest model with 128GB storage,"Arellano, Fuentes and Walton",,,,,0.15,788.62,332,Electronics,98
+99,Smartphone,Latest model with 128GB storage,Russo Inc,,86.33,91.61,,0.44,723.65,300,Electronics,10
+100,Organic Honey,Pure organic honey in a 500ml jar,Young-Hoffman,,,73.71,,0.88,11.01,190,Groceries,126

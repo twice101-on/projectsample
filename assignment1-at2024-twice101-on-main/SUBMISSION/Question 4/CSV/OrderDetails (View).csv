@@ -1,0 +1,263 @@
+Order_Date,Customer_Email,Product_Name,Quantity,Order_Number,Product_Number
+2023-09-25,jason57@yahoo.com,Men's T-shirt,1,1,30
+2023-09-25,jason57@yahoo.com,Laptop,3,1,75
+2023-11-21,ramirezyolanda@hotmail.com,Cooking 101,2,2,15
+2023-11-21,ramirezyolanda@hotmail.com,Coffee Table,2,2,11
+2023-11-21,ramirezyolanda@hotmail.com,Fresh Apples,1,2,26
+2023-11-21,ramirezyolanda@hotmail.com,Men's T-shirt,3,2,70
+2023-02-27,andreamiller@lee.com,Coffee Table,3,3,76
+2023-02-27,andreamiller@lee.com,Cooking 101,2,3,79
+2023-05-09,andreamiller@lee.com,Organic Honey,1,4,81
+2023-05-09,andreamiller@lee.com,Men's T-shirt,3,4,43
+2023-05-09,andreamiller@lee.com,Blender,3,4,62
+2023-05-09,andreamiller@lee.com,Laptop,3,4,37
+2023-05-16,andreamiller@lee.com,The Great Gatsby,3,5,87
+2023-05-16,andreamiller@lee.com,Fresh Apples,2,5,65
+2023-05-16,andreamiller@lee.com,Organic Honey,2,5,81
+2023-04-04,andreamiller@lee.com,Fresh Apples,2,6,66
+2023-04-04,andreamiller@lee.com,Cooking 101,1,6,64
+2023-04-04,andreamiller@lee.com,Laptop,1,6,23
+2023-12-11,andreamiller@lee.com,Fresh Apples,3,7,44
+2023-12-11,andreamiller@lee.com,Cooking 101,3,7,88
+2023-12-11,andreamiller@lee.com,Smartphone,1,7,24
+2023-12-11,andreamiller@lee.com,Organic Honey,1,7,100
+2023-09-14,darrell34@hancock.com,Men's T-shirt,1,8,61
+2023-09-14,darrell34@hancock.com,Cooking 101,2,8,88
+2023-09-14,darrell34@hancock.com,Cooking 101,1,8,79
+2023-09-14,darrell34@hancock.com,Organic Honey,3,8,74
+2023-09-14,darrell34@hancock.com,The Great Gatsby,2,8,20
+2023-04-09,darrell34@hancock.com,Cooking 101,3,9,79
+2023-04-09,darrell34@hancock.com,Fresh Apples,2,9,21
+2023-05-18,christopherkim@robbins-wang.com,Men's T-shirt,2,10,61
+2023-05-18,christopherkim@robbins-wang.com,Women's Dress,1,10,48
+2023-05-18,christopherkim@robbins-wang.com,Smartphone,2,10,40
+2023-06-11,christopherkim@robbins-wang.com,Women's Dress,2,11,73
+2023-06-11,christopherkim@robbins-wang.com,Smartphone,2,11,98
+2023-06-11,christopherkim@robbins-wang.com,Smartphone,2,11,1
+2023-06-11,christopherkim@robbins-wang.com,Laptop,2,11,8
+2023-11-27,christopherkim@robbins-wang.com,Organic Honey,3,12,3
+2023-11-27,christopherkim@robbins-wang.com,Fresh Apples,1,12,26
+2023-11-27,christopherkim@robbins-wang.com,Cooking 101,3,12,85
+2023-05-31,christopherkim@robbins-wang.com,Blender,2,13,49
+2023-05-31,christopherkim@robbins-wang.com,The Great Gatsby,3,13,72
+2023-05-31,christopherkim@robbins-wang.com,Blender,1,13,95
+2023-05-31,christopherkim@robbins-wang.com,Smartphone,3,13,28
+2023-02-08,allenjohn@warren.net,Blender,2,14,93
+2023-02-08,allenjohn@warren.net,Men's T-shirt,1,14,61
+2023-12-19,allenjohn@warren.net,Women's Dress,3,15,36
+2023-12-19,allenjohn@warren.net,Coffee Table,2,15,76
+2023-02-21,allenjohn@warren.net,Women's Dress,3,16,36
+2023-02-21,allenjohn@warren.net,Women's Dress,2,16,48
+2023-02-21,allenjohn@warren.net,Laptop,1,16,37
+2023-07-31,gainesthomas@mccormick.com,Women's Dress,3,17,39
+2023-07-31,gainesthomas@mccormick.com,Fresh Apples,3,17,26
+2023-07-31,gainesthomas@mccormick.com,Coffee Table,2,17,12
+2023-07-31,gainesthomas@mccormick.com,Cooking 101,2,17,32
+2023-07-31,gainesthomas@mccormick.com,Organic Honey,3,17,74
+2023-12-20,bstokes@gmail.com,Coffee Table,3,18,90
+2023-07-04,bstokes@gmail.com,Smartphone,2,19,24
+2023-07-04,bstokes@gmail.com,Cooking 101,1,19,60
+2023-07-05,bstokes@gmail.com,Laptop,3,20,33
+2023-07-05,bstokes@gmail.com,Organic Honey,1,20,96
+2023-07-05,bstokes@gmail.com,The Great Gatsby,1,20,18
+2023-09-07,walkerbreanna@pena.biz,Fresh Apples,2,21,66
+2023-10-17,walkerbreanna@pena.biz,Fresh Apples,2,22,65
+2023-05-25,walkerbreanna@pena.biz,Women's Dress,1,23,73
+2023-09-30,walkerbreanna@pena.biz,Coffee Table,3,24,12
+2023-09-30,walkerbreanna@pena.biz,Cooking 101,3,24,60
+2023-09-30,walkerbreanna@pena.biz,The Great Gatsby,1,24,84
+2023-09-30,walkerbreanna@pena.biz,Coffee Table,1,24,97
+2023-09-30,walkerbreanna@pena.biz,Smartphone,3,24,99
+2023-02-07,hansonolivia@gmail.com,Fresh Apples,2,25,44
+2023-02-07,hansonolivia@gmail.com,Women's Dress,3,25,68
+2023-02-07,hansonolivia@gmail.com,Blender,2,25,95
+2023-02-07,hansonolivia@gmail.com,Organic Honey,2,25,3
+2023-02-07,hansonolivia@gmail.com,Organic Honey,2,25,74
+2023-11-16,hansonolivia@gmail.com,The Great Gatsby,2,26,42
+2023-11-16,hansonolivia@gmail.com,The Great Gatsby,2,26,20
+2023-09-30,omurphy@gmail.com,Smartphone,3,27,99
+2023-09-30,omurphy@gmail.com,The Great Gatsby,3,27,46
+2023-04-07,omurphy@gmail.com,Women's Dress,1,28,13
+2023-04-07,omurphy@gmail.com,Blender,3,28,69
+2023-03-07,omurphy@gmail.com,Laptop,1,29,41
+2023-03-07,omurphy@gmail.com,Cooking 101,1,29,85
+2023-03-07,omurphy@gmail.com,Fresh Apples,2,29,26
+2023-08-06,omurphy@gmail.com,Smartphone,2,30,99
+2023-08-06,omurphy@gmail.com,Blender,1,30,4
+2023-03-05,omurphy@gmail.com,Organic Honey,3,31,96
+2023-03-05,omurphy@gmail.com,Fresh Apples,2,31,27
+2023-03-05,omurphy@gmail.com,Men's T-shirt,2,31,7
+2023-03-05,omurphy@gmail.com,Fresh Apples,2,31,57
+2023-02-17,robert99@barber.com,Blender,3,32,93
+2023-02-17,robert99@barber.com,Coffee Table,1,32,16
+2023-02-17,robert99@barber.com,Coffee Table,1,32,97
+2023-02-17,robert99@barber.com,Blender,3,32,95
+2023-06-12,robert99@barber.com,Coffee Table,3,33,12
+2023-06-12,robert99@barber.com,Blender,2,33,47
+2023-09-18,robert99@barber.com,Organic Honey,1,34,3
+2023-09-18,robert99@barber.com,Blender,2,34,49
+2023-09-18,robert99@barber.com,The Great Gatsby,1,34,52
+2023-09-18,robert99@barber.com,The Great Gatsby,2,34,46
+2023-02-03,robert99@barber.com,Men's T-shirt,3,35,30
+2023-02-03,robert99@barber.com,Coffee Table,3,35,11
+2023-02-03,robert99@barber.com,Blender,2,35,83
+2023-01-09,robert99@barber.com,Organic Honey,1,36,6
+2023-01-09,robert99@barber.com,Cooking 101,1,36,32
+2023-01-09,robert99@barber.com,Women's Dress,1,36,73
+2023-11-02,beverlywatts@yahoo.com,Women's Dress,3,37,48
+2023-11-02,beverlywatts@yahoo.com,Smartphone,1,37,54
+2023-07-06,cookmaurice@mckay.info,Blender,2,38,4
+2023-07-06,cookmaurice@mckay.info,Fresh Apples,2,38,27
+2023-11-17,cookmaurice@mckay.info,Women's Dress,2,39,80
+2023-11-17,cookmaurice@mckay.info,Blender,1,39,4
+2023-11-17,cookmaurice@mckay.info,Men's T-shirt,1,39,43
+2023-03-15,simpsonedward@davis.net,Smartphone,3,40,98
+2023-03-15,simpsonedward@davis.net,Blender,3,40,93
+2023-03-15,simpsonedward@davis.net,Laptop,1,40,22
+2023-03-15,simpsonedward@davis.net,Women's Dress,1,40,13
+2023-10-02,novakwalter@gmail.com,The Great Gatsby,1,41,82
+2023-10-02,novakwalter@gmail.com,Smartphone,2,41,40
+2023-10-02,novakwalter@gmail.com,Men's T-shirt,2,41,61
+2023-10-02,novakwalter@gmail.com,Cooking 101,2,41,17
+2023-10-02,novakwalter@gmail.com,Cooking 101,3,41,85
+2023-11-11,novakwalter@gmail.com,Organic Honey,3,42,96
+2023-11-11,novakwalter@gmail.com,Fresh Apples,1,42,26
+2023-11-11,novakwalter@gmail.com,Women's Dress,3,42,29
+2023-11-11,novakwalter@gmail.com,Cooking 101,1,42,17
+2023-12-04,novakwalter@gmail.com,Blender,2,43,92
+2023-11-11,novakwalter@gmail.com,Laptop,1,44,33
+2023-11-11,novakwalter@gmail.com,Blender,3,44,94
+2023-03-09,daviessamantha@hotmail.com,Cooking 101,1,45,85
+2023-03-09,daviessamantha@hotmail.com,Laptop,3,45,75
+2023-03-09,daviessamantha@hotmail.com,Laptop,3,45,5
+2023-11-20,daviessamantha@hotmail.com,Smartphone,1,46,24
+2023-11-20,daviessamantha@hotmail.com,Women's Dress,3,46,19
+2023-05-02,daviessamantha@hotmail.com,Laptop,3,47,2
+2023-05-02,daviessamantha@hotmail.com,Blender,2,47,62
+2023-05-02,daviessamantha@hotmail.com,Coffee Table,1,47,45
+2023-08-20,daviessamantha@hotmail.com,Men's T-shirt,2,48,70
+2023-08-20,daviessamantha@hotmail.com,Coffee Table,3,48,16
+2023-08-20,daviessamantha@hotmail.com,Women's Dress,3,48,36
+2023-04-06,andreagarza@smith.com,Smartphone,3,49,99
+2023-04-06,andreagarza@smith.com,The Great Gatsby,3,49,59
+2023-04-06,andreagarza@smith.com,Women's Dress,3,49,13
+2023-04-06,andreagarza@smith.com,Fresh Apples,3,49,44
+2023-02-02,andreagarza@smith.com,Men's T-shirt,1,50,70
+2023-04-27,andreagarza@smith.com,Organic Honey,3,51,71
+2023-08-12,juliaolson@ford.com,Smartphone,2,52,24
+2023-08-12,juliaolson@ford.com,Fresh Apples,1,52,66
+2023-08-12,juliaolson@ford.com,Women's Dress,3,52,19
+2023-08-12,juliaolson@ford.com,Women's Dress,1,52,29
+2023-08-12,juliaolson@ford.com,Fresh Apples,3,52,26
+2023-09-27,juliaolson@ford.com,Women's Dress,1,53,68
+2023-09-27,juliaolson@ford.com,Blender,2,53,69
+2023-09-27,juliaolson@ford.com,Men's T-shirt,1,53,70
+2023-09-27,juliaolson@ford.com,Laptop,3,53,89
+2023-09-27,juliaolson@ford.com,Laptop,2,53,22
+2023-02-21,juliaolson@ford.com,Women's Dress,3,54,29
+2023-02-21,juliaolson@ford.com,The Great Gatsby,3,54,20
+2023-02-21,juliaolson@ford.com,Cooking 101,2,54,79
+2023-02-21,juliaolson@ford.com,Fresh Apples,2,54,26
+2023-02-21,juliaolson@ford.com,Men's T-shirt,2,54,7
+2023-08-28,kendra66@yahoo.com,Smartphone,1,55,1
+2023-08-28,kendra66@yahoo.com,Laptop,3,55,33
+2023-08-28,kendra66@yahoo.com,The Great Gatsby,3,55,72
+2023-04-17,kendra66@yahoo.com,Laptop,2,56,8
+2023-03-15,kendra66@yahoo.com,Smartphone,1,57,98
+2023-03-15,kendra66@yahoo.com,Men's T-shirt,1,57,51
+2023-08-03,kendra66@yahoo.com,Cooking 101,2,58,32
+2023-08-03,kendra66@yahoo.com,Cooking 101,1,58,10
+2023-07-25,richard53@gmail.com,The Great Gatsby,1,59,87
+2023-07-25,richard53@gmail.com,Fresh Apples,2,59,27
+2023-07-25,richard53@gmail.com,Women's Dress,3,59,19
+2023-07-25,richard53@gmail.com,Women's Dress,2,59,36
+2023-07-25,richard53@gmail.com,Laptop,3,59,2
+2023-09-24,richard53@gmail.com,Smartphone,3,60,99
+2023-04-29,richard53@gmail.com,Men's T-shirt,3,61,70
+2023-06-24,aprilalvarez@hotmail.com,Blender,2,62,49
+2023-11-17,aprilalvarez@hotmail.com,Laptop,3,63,22
+2023-11-17,aprilalvarez@hotmail.com,Laptop,2,63,89
+2023-11-17,aprilalvarez@hotmail.com,Smartphone,2,63,98
+2023-11-17,aprilalvarez@hotmail.com,Women's Dress,3,63,29
+2023-11-17,aprilalvarez@hotmail.com,Blender,1,63,14
+2023-05-04,deborahdominguez@yahoo.com,Smartphone,1,64,54
+2023-05-04,deborahdominguez@yahoo.com,The Great Gatsby,1,64,82
+2023-05-04,deborahdominguez@yahoo.com,Smartphone,2,64,99
+2023-05-04,deborahdominguez@yahoo.com,Blender,3,64,93
+2023-05-09,deborahdominguez@yahoo.com,The Great Gatsby,1,65,46
+2023-05-09,deborahdominguez@yahoo.com,Laptop,1,65,2
+2023-05-09,deborahdominguez@yahoo.com,Blender,2,65,92
+2023-10-27,deborahdominguez@yahoo.com,Organic Honey,3,66,100
+2023-10-27,deborahdominguez@yahoo.com,Coffee Table,3,66,63
+2023-10-27,deborahdominguez@yahoo.com,Women's Dress,3,66,78
+2023-11-07,deborahdominguez@yahoo.com,Organic Honey,3,67,6
+2023-11-07,deborahdominguez@yahoo.com,Blender,3,67,14
+2023-11-07,deborahdominguez@yahoo.com,Blender,1,67,83
+2023-11-07,deborahdominguez@yahoo.com,Organic Honey,1,67,74
+2023-05-03,deborahdominguez@yahoo.com,Smartphone,2,68,54
+2023-05-03,deborahdominguez@yahoo.com,Blender,3,68,92
+2023-05-03,deborahdominguez@yahoo.com,Organic Honey,2,68,6
+2023-05-03,deborahdominguez@yahoo.com,Blender,2,68,83
+2023-05-03,deborahdominguez@yahoo.com,The Great Gatsby,3,68,59
+2023-11-18,josemunoz@clark.com,Smartphone,3,69,28
+2023-05-30,marshallcarly@hotmail.com,Laptop,2,70,33
+2023-05-30,marshallcarly@hotmail.com,Cooking 101,2,70,88
+2023-05-30,marshallcarly@hotmail.com,The Great Gatsby,1,70,46
+2023-05-30,marshallcarly@hotmail.com,Women's Dress,2,70,36
+2023-06-16,marshallcarly@hotmail.com,Smartphone,1,71,99
+2023-06-16,marshallcarly@hotmail.com,Fresh Apples,3,71,27
+2023-07-25,marshallcarly@hotmail.com,Cooking 101,1,72,64
+2023-07-25,marshallcarly@hotmail.com,Men's T-shirt,2,72,43
+2023-06-06,alyssa17@gmail.com,The Great Gatsby,2,73,82
+2023-11-15,alyssa17@gmail.com,Coffee Table,2,74,97
+2023-11-15,alyssa17@gmail.com,Fresh Apples,2,74,26
+2023-06-22,hsmith@yahoo.com,Laptop,2,75,22
+2023-06-22,hsmith@yahoo.com,Organic Honey,1,75,3
+2023-10-25,hsmith@yahoo.com,Coffee Table,3,76,90
+2023-10-25,hsmith@yahoo.com,The Great Gatsby,2,76,72
+2023-10-25,hsmith@yahoo.com,Coffee Table,3,76,97
+2023-10-25,hsmith@yahoo.com,Blender,1,76,69
+2023-10-25,hsmith@yahoo.com,Men's T-shirt,3,76,51
+2023-04-12,hsmith@yahoo.com,Cooking 101,2,77,85
+2023-04-12,hsmith@yahoo.com,Blender,1,77,34
+2023-04-12,hsmith@yahoo.com,Blender,2,77,92
+2023-04-12,hsmith@yahoo.com,Blender,2,77,69
+2023-04-12,hsmith@yahoo.com,Men's T-shirt,1,77,51
+2023-02-23,hsmith@yahoo.com,Cooking 101,3,78,79
+2023-02-23,hsmith@yahoo.com,Coffee Table,2,78,11
+2023-02-23,hsmith@yahoo.com,Women's Dress,2,78,29
+2023-12-08,sgillespie@yahoo.com,Laptop,1,79,89
+2023-12-08,sgillespie@yahoo.com,Cooking 101,1,79,32
+2023-11-28,sgillespie@yahoo.com,Cooking 101,1,80,32
+2023-11-28,sgillespie@yahoo.com,Cooking 101,2,80,79
+2023-11-28,sgillespie@yahoo.com,Fresh Apples,2,80,57
+2023-07-31,lindafuller@cohen.net,Laptop,2,81,75
+2023-07-31,lindafuller@cohen.net,Organic Honey,3,81,81
+2023-07-31,lindafuller@cohen.net,Men's T-shirt,3,81,50
+2023-07-31,lindafuller@cohen.net,Blender,3,81,34
+2023-07-31,lindafuller@cohen.net,Blender,2,81,47
+2023-07-09,lindafuller@cohen.net,Laptop,3,82,41
+2023-07-09,lindafuller@cohen.net,The Great Gatsby,1,82,46
+2023-06-14,lindafuller@cohen.net,Blender,3,83,69
+2023-06-14,lindafuller@cohen.net,Cooking 101,1,83,17
+2023-10-02,lindafuller@cohen.net,Men's T-shirt,3,84,30
+2023-10-02,lindafuller@cohen.net,Coffee Table,3,84,45
+2023-10-02,lindafuller@cohen.net,Coffee Table,3,84,90
+2023-10-02,lindafuller@cohen.net,Organic Honey,1,84,71
+2023-10-02,lindafuller@cohen.net,Cooking 101,2,84,60
+2023-08-24,lindafuller@cohen.net,Cooking 101,1,85,9
+2023-08-24,lindafuller@cohen.net,Organic Honey,3,85,3
+2023-08-24,lindafuller@cohen.net,Coffee Table,3,85,58
+2023-08-24,lindafuller@cohen.net,The Great Gatsby,1,85,84
+2023-02-02,ramirezbryan@yahoo.com,Women's Dress,2,86,73
+2023-02-02,ramirezbryan@yahoo.com,Blender,1,86,94
+2023-02-02,ramirezbryan@yahoo.com,Blender,3,86,92
+2023-08-09,ramirezbryan@yahoo.com,Smartphone,3,87,28
+2023-08-09,ramirezbryan@yahoo.com,Coffee Table,2,87,58
+2023-08-09,ramirezbryan@yahoo.com,Blender,3,87,69
+2023-08-09,ramirezbryan@yahoo.com,The Great Gatsby,2,87,87
+2023-04-30,ramirezbryan@yahoo.com,Women's Dress,3,88,19
+2023-04-30,ramirezbryan@yahoo.com,Cooking 101,3,88,88
+2023-04-30,ramirezbryan@yahoo.com,Laptop,1,88,41
+2023-04-30,ramirezbryan@yahoo.com,Cooking 101,1,88,79
+2023-10-28,ramirezbryan@yahoo.com,Cooking 101,1,89,79
